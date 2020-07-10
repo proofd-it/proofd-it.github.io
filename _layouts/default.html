@@ -22,7 +22,17 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-         <p>People: </p>
+         
+
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        {% endif %}
+
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View the Project Outputs on GitHub</a></p>
+        {% endif %}
+
+        <p>People: </p>
         
         * <a href="https://www.abdn.ac.uk/ncs/profiles/p.edwards">Peter Edwards</a>
         * <a href="https://www.abdn.ac.uk/ncs/profiles/milan.markovic/">Milan Markovic</a>
@@ -37,15 +47,7 @@
         <li>Blockchains</li>
         <li>Ontology</li>
         </ul>
-
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View the Project Outputs on GitHub</a></p>
-        {% endif %}
-
+        
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
