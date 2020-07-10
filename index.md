@@ -17,6 +17,8 @@ M. Markovic, P. Edwards and N. Jacobs, "<a href="https://ieeexplore.ieee.org/doc
 
 <img src="/architecture.jpg">
 
+<a href="https://proofd-it.github.io/architecture.jpg" target="_blank">Click to see full size image</a>
+
 # Demo
 
 A video demonstrating an early prototype of the PROOFD-IT system 
