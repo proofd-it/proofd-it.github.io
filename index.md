@@ -5,7 +5,7 @@ title: PROOFD-IT
 
 # Related Publications
 
-M. Markovic, P. Edwards and N. Jacobs, "Recording Provenance of Food Delivery Using IoT, Semantics and Business Blockchain Networks," 2019 Sixth International Conference on Internet of Things: Systems, Management and Security (IOTSMS), Granada, Spain, 2019, pp. 116-118, doi: 10.1109/IOTSMS48152.2019.8939250.
+M. Markovic, P. Edwards and N. Jacobs, "<a href="https://ieeexplore.ieee.org/document/8939250"> Recording Provenance of Food Delivery Using IoT, Semantics and Business Blockchain Networks</a>," 2019 Sixth International Conference on Internet of Things: Systems, Management and Security (IOTSMS), Granada, Spain, 2019, pp. 116-118, doi: 10.1109/IOTSMS48152.2019.8939250.
 
 # Demo
 
