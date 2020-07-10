@@ -9,7 +9,7 @@ M. Markovic, P. Edwards and N. Jacobs, "<a href="https://ieeexplore.ieee.org/doc
 
 # Press releases & Blogs 
 
-<a href="https://www.foodchain.ac.uk/2019/08/02/call-1-pilot-projects-announced/">Project Funding Annoucment</a>
+<a href="https://www.foodchain.ac.uk/2019/08/02/call-1-pilot-projects-announced/">Project Funding Announcement</a>
 
 <a href="https://www.foodchain.ac.uk/2019/08/30/proofd-it-fieldwork-journey-mapping/"> PROOFD-IT Fieldwork – journey mapping</a>
 
