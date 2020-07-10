@@ -15,3 +15,5 @@ A video demonstrating an early prototype of the PROOFD-IT system
 <p><a href="https://vimeo.com/360563908">Food IoT</a> from <a href="https://vimeo.com/user102977071">Naomi Jacobs</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 # Acknowledgments
+
+The work presented here was supported by an award made by the UKRI, EPSRC funded Internet of Food Things Network+ grant EP/R045127/1.
