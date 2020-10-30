@@ -7,7 +7,11 @@ title: PROoFD IT!: Provenance of Food Delivery through IoT
 
 ## Related Publications
 
+M. Markovic, N. Jacobs, K. Dryja, P. Edwards, N.J.C. Strachan, "<a href="https://www.frontiersin.org/articles/10.3389/fsufs.2020.563424/abstract">Integrating Internet of Things, Provenance and Blockchain to Enhance Trust in Last Mile Food Deliveries</a>," Frontiers in Sustainable Food Systems, 2020, doi: 10.3389/fsufs.2020.563424.
+
 M. Markovic, P. Edwards and N. Jacobs, "<a href="https://ieeexplore.ieee.org/document/8939250"> Recording Provenance of Food Delivery Using IoT, Semantics and Business Blockchain Networks</a>," 2019 Sixth International Conference on Internet of Things: Systems, Management and Security (IOTSMS), Granada, Spain, 2019, pp. 116-118, doi: 10.1109/IOTSMS48152.2019.8939250.
+
+
 
 ## Press releases & Blogs 
 
